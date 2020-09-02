@@ -5,7 +5,6 @@ end
 def my_hash
   new_hash = {
     boomerang: "Yogi Bear"
-    netflix: "Big Mouth"
   }
 end
 
